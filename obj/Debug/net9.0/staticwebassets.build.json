@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "9wQwZXv8Xg20Fg47DYFMi+NxWQrpzU6KWTaqK/G1kVU=",
+  "Source": "RoutingDemo",
+  "BasePath": "_content/RoutingDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RoutingDemo\\wwwroot",
+      "Source": "RoutingDemo",
+      "ContentRoot": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\wwwroot\\",
+      "BasePath": "_content/RoutingDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\obj\\Debug\\net9.0\\compressed\\1asbdjd9xu-m9mdf2cue7.gz",
+      "SourceId": "RoutingDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/RoutingDemo",
+      "RelativePath": "index#[.{fingerprint=m9mdf2cue7}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "p5w9eglc5h",
+      "Integrity": "DWmYIM1NfAwTAQlP7BTVvpl+c8W+2REy9zTEwtr4q/Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\obj\\Debug\\net9.0\\compressed\\44lkmfr119-4x5w7bwdjc.gz",
+      "SourceId": "RoutingDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/RoutingDemo",
+      "RelativePath": "app#[.{fingerprint=4x5w7bwdjc}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\wwwroot\\app.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "rwveoom8hc",
+      "Integrity": "C3F/bWcwFB4t+wCUskYeR64hh7BB39DB8PXy5TA2e1k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\wwwroot\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\obj\\Debug\\net9.0\\compressed\\ul3nge8u43-1duqjivo9f.gz",
+      "SourceId": "RoutingDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/RoutingDemo",
+      "RelativePath": "style#[.{fingerprint=1duqjivo9f}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\wwwroot\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "i89ntckakn",
+      "Integrity": "fsS8isIOtVC6X7iA6xIfxKMIS6gIWnVUfSIkJXZUT10=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\wwwroot\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\wwwroot\\app.js",
+      "SourceId": "RoutingDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\wwwroot\\",
+      "BasePath": "_content/RoutingDemo",
+      "RelativePath": "app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4x5w7bwdjc",
+      "Integrity": "CGfCijqUhE7IWJw6oztV2hPIm+WiDFFeyxgFe+ziSQY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\wwwroot\\index.html",
+      "SourceId": "RoutingDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\wwwroot\\",
+      "BasePath": "_content/RoutingDemo",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m9mdf2cue7",
+      "Integrity": "Blcm3X+EriDRgEofytj2rGopD+BBgd6aSSaoypxyJWc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\wwwroot\\style.css",
+      "SourceId": "RoutingDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\wwwroot\\",
+      "BasePath": "_content/RoutingDemo",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1duqjivo9f",
+      "Integrity": "y3gYZP9uB1zrTQ1rqFBMjV+essV70rpjbELerKsa9cU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.4x5w7bwdjc.js",
+      "AssetFile": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\obj\\Debug\\net9.0\\compressed\\44lkmfr119-4x5w7bwdjc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000704225352"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1419"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C3F/bWcwFB4t+wCUskYeR64hh7BB39DB8PXy5TA2e1k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Sep 2026 08:43:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"CGfCijqUhE7IWJw6oztV2hPIm+WiDFFeyxgFe+ziSQY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4x5w7bwdjc"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CGfCijqUhE7IWJw6oztV2hPIm+WiDFFeyxgFe+ziSQY="
+        }
+      ]
+    },
+    {
+      "Route": "app.4x5w7bwdjc.js",
+      "AssetFile": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\wwwroot\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3364"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CGfCijqUhE7IWJw6oztV2hPIm+WiDFFeyxgFe+ziSQY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Sep 2026 08:43:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4x5w7bwdjc"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CGfCijqUhE7IWJw6oztV2hPIm+WiDFFeyxgFe+ziSQY="
+        }
+      ]
+    },
+    {
+      "Route": "app.4x5w7bwdjc.js.gz",
+      "AssetFile": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\obj\\Debug\\net9.0\\compressed\\44lkmfr119-4x5w7bwdjc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1419"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C3F/bWcwFB4t+wCUskYeR64hh7BB39DB8PXy5TA2e1k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Sep 2026 08:43:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4x5w7bwdjc"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C3F/bWcwFB4t+wCUskYeR64hh7BB39DB8PXy5TA2e1k="
+        }
+      ]
+    },
+    {
+      "Route": "app.js",
+      "AssetFile": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\obj\\Debug\\net9.0\\compressed\\44lkmfr119-4x5w7bwdjc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000704225352"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1419"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C3F/bWcwFB4t+wCUskYeR64hh7BB39DB8PXy5TA2e1k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Sep 2026 08:43:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"CGfCijqUhE7IWJw6oztV2hPIm+WiDFFeyxgFe+ziSQY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CGfCijqUhE7IWJw6oztV2hPIm+WiDFFeyxgFe+ziSQY="
+        }
+      ]
+    },
+    {
+      "Route": "app.js",
+      "AssetFile": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\wwwroot\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3364"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CGfCijqUhE7IWJw6oztV2hPIm+WiDFFeyxgFe+ziSQY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Sep 2026 08:43:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CGfCijqUhE7IWJw6oztV2hPIm+WiDFFeyxgFe+ziSQY="
+        }
+      ]
+    },
+    {
+      "Route": "app.js.gz",
+      "AssetFile": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\obj\\Debug\\net9.0\\compressed\\44lkmfr119-4x5w7bwdjc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1419"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C3F/bWcwFB4t+wCUskYeR64hh7BB39DB8PXy5TA2e1k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Sep 2026 08:43:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C3F/bWcwFB4t+wCUskYeR64hh7BB39DB8PXy5TA2e1k="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\obj\\Debug\\net9.0\\compressed\\1asbdjd9xu-m9mdf2cue7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001067235859"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DWmYIM1NfAwTAQlP7BTVvpl+c8W+2REy9zTEwtr4q/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Sep 2026 08:43:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Blcm3X+EriDRgEofytj2rGopD+BBgd6aSSaoypxyJWc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Blcm3X+EriDRgEofytj2rGopD+BBgd6aSSaoypxyJWc="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Blcm3X+EriDRgEofytj2rGopD+BBgd6aSSaoypxyJWc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Sep 2026 08:43:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Blcm3X+EriDRgEofytj2rGopD+BBgd6aSSaoypxyJWc="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\obj\\Debug\\net9.0\\compressed\\1asbdjd9xu-m9mdf2cue7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DWmYIM1NfAwTAQlP7BTVvpl+c8W+2REy9zTEwtr4q/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Sep 2026 08:43:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DWmYIM1NfAwTAQlP7BTVvpl+c8W+2REy9zTEwtr4q/Y="
+        }
+      ]
+    },
+    {
+      "Route": "index.m9mdf2cue7.html",
+      "AssetFile": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\obj\\Debug\\net9.0\\compressed\\1asbdjd9xu-m9mdf2cue7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001067235859"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DWmYIM1NfAwTAQlP7BTVvpl+c8W+2REy9zTEwtr4q/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Sep 2026 08:43:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Blcm3X+EriDRgEofytj2rGopD+BBgd6aSSaoypxyJWc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m9mdf2cue7"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Blcm3X+EriDRgEofytj2rGopD+BBgd6aSSaoypxyJWc="
+        }
+      ]
+    },
+    {
+      "Route": "index.m9mdf2cue7.html",
+      "AssetFile": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Blcm3X+EriDRgEofytj2rGopD+BBgd6aSSaoypxyJWc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Sep 2026 08:43:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m9mdf2cue7"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Blcm3X+EriDRgEofytj2rGopD+BBgd6aSSaoypxyJWc="
+        }
+      ]
+    },
+    {
+      "Route": "index.m9mdf2cue7.html.gz",
+      "AssetFile": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\obj\\Debug\\net9.0\\compressed\\1asbdjd9xu-m9mdf2cue7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DWmYIM1NfAwTAQlP7BTVvpl+c8W+2REy9zTEwtr4q/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Sep 2026 08:43:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m9mdf2cue7"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DWmYIM1NfAwTAQlP7BTVvpl+c8W+2REy9zTEwtr4q/Y="
+        }
+      ]
+    },
+    {
+      "Route": "style.1duqjivo9f.css",
+      "AssetFile": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\obj\\Debug\\net9.0\\compressed\\ul3nge8u43-1duqjivo9f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001074113856"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "930"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fsS8isIOtVC6X7iA6xIfxKMIS6gIWnVUfSIkJXZUT10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Sep 2026 08:43:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"y3gYZP9uB1zrTQ1rqFBMjV+essV70rpjbELerKsa9cU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1duqjivo9f"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y3gYZP9uB1zrTQ1rqFBMjV+essV70rpjbELerKsa9cU="
+        }
+      ]
+    },
+    {
+      "Route": "style.1duqjivo9f.css",
+      "AssetFile": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y3gYZP9uB1zrTQ1rqFBMjV+essV70rpjbELerKsa9cU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Sep 2026 08:43:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1duqjivo9f"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y3gYZP9uB1zrTQ1rqFBMjV+essV70rpjbELerKsa9cU="
+        }
+      ]
+    },
+    {
+      "Route": "style.1duqjivo9f.css.gz",
+      "AssetFile": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\obj\\Debug\\net9.0\\compressed\\ul3nge8u43-1duqjivo9f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fsS8isIOtVC6X7iA6xIfxKMIS6gIWnVUfSIkJXZUT10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Sep 2026 08:43:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1duqjivo9f"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fsS8isIOtVC6X7iA6xIfxKMIS6gIWnVUfSIkJXZUT10="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\obj\\Debug\\net9.0\\compressed\\ul3nge8u43-1duqjivo9f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001074113856"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "930"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fsS8isIOtVC6X7iA6xIfxKMIS6gIWnVUfSIkJXZUT10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Sep 2026 08:43:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"y3gYZP9uB1zrTQ1rqFBMjV+essV70rpjbELerKsa9cU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y3gYZP9uB1zrTQ1rqFBMjV+essV70rpjbELerKsa9cU="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y3gYZP9uB1zrTQ1rqFBMjV+essV70rpjbELerKsa9cU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Sep 2026 08:43:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y3gYZP9uB1zrTQ1rqFBMjV+essV70rpjbELerKsa9cU="
+        }
+      ]
+    },
+    {
+      "Route": "style.css.gz",
+      "AssetFile": "C:\\Users\\KARusev22\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\New folder\\RoutingDemo\\obj\\Debug\\net9.0\\compressed\\ul3nge8u43-1duqjivo9f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fsS8isIOtVC6X7iA6xIfxKMIS6gIWnVUfSIkJXZUT10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Sep 2026 08:43:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fsS8isIOtVC6X7iA6xIfxKMIS6gIWnVUfSIkJXZUT10="
+        }
+      ]
+    }
+  ]
+}

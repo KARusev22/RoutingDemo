@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Routing Demo — REST (GET / POST / DELETE)</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <header>
+        <h1>🌐 Роутинг с REST заявки</h1>
+        <p class="subtitle">
+            ASP.NET Core Web API · демонстрация на
+            <span class="verb get">GET</span>
+            <span class="verb post">POST</span>
+            <span class="verb delete">DELETE</span>
+        </p>
+    </header>
+
+    <main>
+        <section class="card">
+            <h2>➕ Добави задача <span class="verb post">POST /api/tasks</span></h2>
+            <form id="addForm">
+                <input type="text" id="title" placeholder="Заглавие на задачата…" autocomplete="off" required />
+                <button type="submit">Добави</button>
+            </form>
+        </section>
+
+        <section class="card">
+            <h2>📋 Задачи <span class="verb get">GET /api/tasks</span></h2>
+            <div class="actions">
+                <button id="refresh">Презареди списъка</button>
+            </div>
+            <ul id="taskList"></ul>
+            <p id="empty" class="empty" hidden>Няма задачи. Добавете първата чрез формата.</p>
+        </section>
+
+        <section class="card">
+            <h2>📡 Дневник на заявките</h2>
+            <p class="hint">Всеки ред показва HTTP метода, URL-а и статус кода, който сървърът е върнал.</p>
+            <table id="logTable">
+                <thead>
+                    <tr><th>Метод</th><th>URL</th><th>Статус</th><th>Час</th></tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </section>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
